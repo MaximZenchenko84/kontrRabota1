@@ -1,0 +1,5 @@
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.csproj.AssemblyReference.cache
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.AssemblyInfoInputs.cache
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.AssemblyInfo.cs
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.csproj.CoreCompileInputs.cache

@@ -1,5 +1,15 @@
+C:\Users\asus\kontrRabota1\bin\Debug\net7.0\kontrRabota1.exe
+C:\Users\asus\kontrRabota1\bin\Debug\net7.0\kontrRabota1.deps.json
+C:\Users\asus\kontrRabota1\bin\Debug\net7.0\kontrRabota1.runtimeconfig.json
+C:\Users\asus\kontrRabota1\bin\Debug\net7.0\kontrRabota1.dll
+C:\Users\asus\kontrRabota1\bin\Debug\net7.0\kontrRabota1.pdb
 C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.csproj.AssemblyReference.cache
 C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.AssemblyInfoInputs.cache
 C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.AssemblyInfo.cs
 C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.csproj.CoreCompileInputs.cache
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.dll
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\refint\kontrRabota1.dll
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.pdb
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\kontrRabota1.genruntimeconfig.cache
+C:\Users\asus\kontrRabota1\obj\Debug\net7.0\ref\kontrRabota1.dll

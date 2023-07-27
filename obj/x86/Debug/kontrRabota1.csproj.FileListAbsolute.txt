@@ -1,7 +1,0 @@
-I:\Max\Perf_gr\Gb\Examples\kontrRabota1\bin\Debug\kontrRabota1.exe
-I:\Max\Perf_gr\Gb\Examples\kontrRabota1\bin\Debug\kontrRabota1.pdb
-I:\Max\Perf_gr\Gb\Examples\kontrRabota1\obj\x86\Debug\kontrRabota1.csprojResolveAssemblyReference.cache
-I:\Max\Perf_gr\Gb\Examples\kontrRabota1\obj\x86\Debug\kontrRabota1.exe
-I:\Max\Perf_gr\Gb\Examples\kontrRabota1\obj\x86\Debug\kontrRabota1.pdb
-C:\Users\asus\kontrRabota1\obj\x86\Debug\kontrRabota1.exe
-C:\Users\asus\kontrRabota1\obj\x86\Debug\kontrRabota1.pdb
